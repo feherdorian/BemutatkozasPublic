@@ -1,0 +1,1 @@
+import{_ as e}from"./BemutatkozoKartya-Bu43uvcl.js";import{c as t,a as n,o}from"./index-UKNBPcJh.js";const m={__name:"Kikkencs",setup(r){return(a,s)=>(o(),t("div",null,[n(e,{nev:"Molnár Krisztián",kep:"krisztian",bemutatkozas:"Sok mindent szeretek, es sok mident nem GGWP tyfortutorial"})]))}};export{m as default};
