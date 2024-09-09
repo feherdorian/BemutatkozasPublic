@@ -1,0 +1,1 @@
+import{_ as e}from"./BemutatkozoKartya-Bu43uvcl.js";import{c as a,a as o,o as r}from"./index-UKNBPcJh.js";const n={class:"card-container"},m={__name:"Dorian",setup(t){return(s,c)=>(r(),a("div",n,[o(e,{nev:"Fehér Zsolt Dorián (Hozé Luis Armani)",kep:"dorian",bemutatkozas:"Pókember akarok lenni, ha felnövök."})]))}};export{m as default};
